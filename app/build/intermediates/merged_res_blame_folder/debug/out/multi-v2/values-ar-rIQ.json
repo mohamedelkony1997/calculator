@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\M ELKONY\\AndroidStudioProjects\\Calucator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ar-rIQ\\values-ar-rIQ.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\M ELKONY\\AndroidStudioProjects\\Calucator\\app\\src\\main\\res\\values-ar-rIQ\\strings.xml",
+                    "from": {
+                        "startLines": "13,10,11,12,7,8,9,3,4,5,2,6,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "444,342,376,410,240,274,308,105,139,173,57,207,478",
+                        "endColumns": "32,32,32,32,32,32,32,32,32,32,46,31,36",
+                        "endOffsets": "472,370,404,438,268,302,336,133,167,201,99,234,510"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,88,121,154,187,220,253,286,319,352,385,432,464",
+                        "endColumns": "32,32,32,32,32,32,32,32,32,32,46,31,36",
+                        "endOffsets": "83,116,149,182,215,248,281,314,347,380,427,459,496"
+                    }
+                }
+            ]
+        }
+    ]
+}

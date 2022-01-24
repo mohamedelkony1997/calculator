@@ -1,0 +1,4 @@
+com/example/calucator/MainActivity.java
+ com.example.calucator.MainActivity
+com/example/calucator/BuildConfig.java
+ com.example.calucator.BuildConfig
